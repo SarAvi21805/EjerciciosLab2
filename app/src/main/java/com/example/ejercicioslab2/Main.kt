@@ -1,3 +1,9 @@
+/**
+* Alejandra Avilés - 24722
+* Tarea: Laboratorio 2 Plataformas Móviles
+* Fecha: 19/07/2025
+**/
+
 package com.example.ejercicioslab2
 
 /* 1. Función calcular promedio */
